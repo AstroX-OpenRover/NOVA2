@@ -113,6 +113,3 @@ Georgia Institute of Technology
 
 [Lab website](https://aerospaceroboticslab.ae.gatech.edu/) · [AstroX-OpenRover on GitHub](https://github.com/AstroX-OpenRover)
 
-## License
-
-A license file has not yet been added to this repository. Contact the maintainers for licensing information.
